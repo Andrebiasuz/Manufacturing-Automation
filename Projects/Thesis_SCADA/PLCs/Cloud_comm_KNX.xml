@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WAGO_XML_CAE version="2.6" author="WAGO">
+  <Project GUID="bbca7a88-3291-4927-b3e3-13d46d801007" Name="Cloud_comm_KNX">
+    <Carrier GUID="0e245cac-5a4f-49a2-afd7-0b37319423f2">
+      <Article_no>210-112</Article_no>
+      <Name>PFC200_2ETH_RS_CAN_DPS</Name>
+      <Project_articles>
+        <Project_article GUID="19e7eaa0-1a98-4f5f-b724-e080bc606152">
+          <Article_no>750-8206</Article_no>
+          <Position>1</Position>
+        </Project_article>
+        <Project_article GUID="d77947ee-8721-46eb-a411-605633d373b4">
+          <Article_no>75x-16DI</Article_no>
+          <Position>2</Position>
+        </Project_article>
+        <Project_article GUID="1e0a0eca-754d-4414-b27a-a041a92b37cf">
+          <Article_no>75x-16DO</Article_no>
+          <Position>3</Position>
+        </Project_article>
+        <Project_article GUID="ca0d55c5-f559-4e0f-a904-35b36bedc52f">
+          <Article_no>750-451</Article_no>
+          <Position>4</Position>
+        </Project_article>
+        <Project_article GUID="c3c27e5d-3213-4dd3-8b74-eca4e10e3297">
+          <Article_no>750-652</Article_no>
+          <Position>5</Position>
+        </Project_article>
+        <Project_article GUID="6c5327c5-8639-4ed4-b3a8-34961a2f48fb">
+          <Article_no>753-647</Article_no>
+          <Position>6</Position>
+        </Project_article>
+        <Project_article GUID="781a5722-c869-40ad-9f5a-b559029a4c6c">
+          <Article_no>750-550</Article_no>
+          <Position>7</Position>
+        </Project_article>
+        <Project_article GUID="dd1c68b6-2e08-4711-83ee-6a36f7daae25">
+          <Article_no>750-467</Article_no>
+          <Position>8</Position>
+        </Project_article>
+        <Project_article GUID="88e113dc-bd59-4f7e-9679-5195e8435306">
+          <Article_no>750-600</Article_no>
+          <Position>9</Position>
+        </Project_article>
+      </Project_articles>
+    </Carrier>
+    <Carrier GUID="c91ad92b-dfea-4355-ae78-e178cc60e85c">
+      <Article_no>210-112</Article_no>
+      <Name>PFC200_2ETH_RS_CAN_DPS_1</Name>
+      <Project_articles>
+        <Project_article GUID="5404c72c-e38e-4d00-a0c8-75698fc5d748">
+          <Article_no>750-8206</Article_no>
+          <Position>1</Position>
+        </Project_article>
+        <Project_article GUID="5c9eed35-d464-4d6b-82c3-c57f0628f46e">
+          <Article_no>75x-16DI</Article_no>
+          <Position>2</Position>
+        </Project_article>
+        <Project_article GUID="ad74c152-da0e-41e8-a80b-b333dac025f2">
+          <Article_no>753-647</Article_no>
+          <Position>3</Position>
+        </Project_article>
+        <Project_article GUID="c55635d5-d2a7-4eb0-89d7-ba8bd83e6f58">
+          <Article_no>750-467</Article_no>
+          <Position>4</Position>
+        </Project_article>
+        <Project_article GUID="0d12922c-c464-4283-9b7c-42ebf717f886">
+          <Article_no>750-550</Article_no>
+          <Position>5</Position>
+        </Project_article>
+        <Project_article GUID="e129d8ad-bc0a-4952-b5e4-d94f6dc76545">
+          <Article_no>753-646</Article_no>
+          <Position>6</Position>
+        </Project_article>
+        <Project_article GUID="204d304e-0274-4da0-a5cb-e6e4b49160a6">
+          <Article_no>750-600</Article_no>
+          <Position>7</Position>
+        </Project_article>
+      </Project_articles>
+    </Carrier>
+  </Project>
+</WAGO_XML_CAE>

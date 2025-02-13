@@ -1,0 +1,43 @@
+.wrapper {
+  display: inline-grid  ;
+  grid-template-columns: repeat(3, 50px);
+  grid-column-gap: 30px;
+  grid-auto-rows: minmax(50px, auto);
+  margin:auto;
+}
+
+body {
+ text-align: center;
+}
+
+.wrapper > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/*h1 {
+  text-align: center;
+}*/
+
+#start_bt:hover , #reset_bt:hover {
+  /*height: 30px;*/
+  border-style: solid;
+
+}
+
+.tl  {
+  position: relative;
+  width:50px;
+  height:50px;
+  /*background-color: black;*/
+  border-radius: 50%;
+  border-style:solid;
+  /*font-size: 25px;*/
+  align-items: center;
+}
+
+#elapsed_time {
+  border-style: solid;
+  background-color: white;
+  padding: 5px;
+}
